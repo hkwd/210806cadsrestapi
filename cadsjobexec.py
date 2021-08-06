@@ -4,7 +4,7 @@ import pprint
 import sys
 
 args = sys.argv
-args=['ms183-win19:9080','Test/resttest','admin','spss','VNAME','hogehoge']
+#args=['ms183-win19:9080','Test/resttest','admin','password','VNAME','hogehoge']
 
 #引数の確認
 if len(args)<4 or len(args)%2!=0:
